@@ -2,11 +2,11 @@
 course_name: UH LSU UL Joint Research Seminar
 course_semester: ""
 
-baseurl: "/UH-LSU-UL-Seminar/" # the subpath of your site, e.g. /blog/
-url: "intellisys.haow.ca" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "seminar.haow.ca" # the base hostname & protocol for your site
 
 schoolname: "University of Houston, Louisiana State University, University of Louisiana-lafayette"
-schoolurl: "intellisys.haow.ca"
+schoolurl: "www.haow.ca"
 twitter_username:  
 
 address: |
