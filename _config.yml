@@ -1,0 +1,50 @@
+# Site settings
+course_name: UH LSU UL Joint Research Seminar
+course_semester: ""
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.haow.ca/" # the base hostname & protocol for your site
+
+schoolname: "University of Houston, Louisiana State University, University of Louisiana-lafayette"
+schoolurl: "http://www.haow.ca/"
+twitter_username:  
+
+address: |
+    Louisiana State University
+    Baton Rouge, Louisiana
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop', 'vendor']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"

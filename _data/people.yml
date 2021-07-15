@@ -1,0 +1,30 @@
+instructors:
+  - name: Miao Pan
+    profile_pic: /_images/pp/Hao_Wang.jpg
+    webpage: https://www.haow.ca/
+
+  - name: Xiangwei Zhou
+    profile_pic: /_images/pp/Hao_Wang.jpg
+    webpage: https://www.haow.ca/
+
+  - name: Xu Yuan
+    profile_pic: /_images/pp/Hao_Wang.jpg
+    webpage: https://www.haow.ca/
+
+  - name: Hao Wang
+    profile_pic: /_images/pp/Hao_Wang.jpg
+    webpage: https://www.haow.ca/
+
+
+teaching_assistants:
+  - name: TBD
+    profile_pic: /_images/pp/yoda.png
+    webpage: https://en.wikipedia.org/wiki/Yoda
+
+  - name: TBD
+    profile_pic: /_images/pp/yoda.png
+    webpage: https://en.wikipedia.org/wiki/Yoda
+
+  - name: TBD
+    profile_pic: /_images/pp/yoda.png
+    webpage: https://en.wikipedia.org/wiki/Yoda
