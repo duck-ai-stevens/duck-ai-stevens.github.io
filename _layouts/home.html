@@ -34,10 +34,10 @@ layout: default
 
 <div class="home" style="font-size: 1em;">
     <ul class="responsive-table" style="margin-left: 0;">
-        <li class="table-header">
+        <li class="table-header" style="justify-content: left;">
             <!-- <div class="col col-1">Event</div> -->
             <div class="col col-1-2">Date</div>
-            <div class="col col-8" style="justify-content: auto;">Description</div>
+            <div class="col col-8" >Description</div>
             <!-- <div class="col col-4">Material</div> -->
         </li>
         
@@ -49,7 +49,7 @@ layout: default
         {% assign all_events_sorted = all_events | sort: 'date' %}
 
         {% for event in all_events_sorted %}
-        <li class="table-row table-row-{{ event.type }}">
+        <li class="table-row table-row-{{ event.type }}" style="justify-content: left;">
             {% include schedule_row_{{ event.type }}.html event=event %}
         </li>
         {% endfor %}
