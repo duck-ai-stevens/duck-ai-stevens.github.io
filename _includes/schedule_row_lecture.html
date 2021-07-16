@@ -1,13 +1,17 @@
 <!-- <div class="col col-1" data-label="Event">Lecture</div> -->
-<div class="col col-1-2" data-label="Date">
+<div class="col col-2" data-label="Date">
     {{ include.event.date | date: site.dateformat }}
-    <br class="date-spliter"/>{{ include.event.date | date: "%A" }}
+    <br class="date-spliter"/>{{ include.event.date | date: "%H:%M CDT" }}
 </div>
-<div class="col col-8" data-label="Description">
+<div class="col col-9" data-label="Description">
     {{ include.event.title }}
+    <div>
+        <i>Presenter: {{ include.event.presenter }}</i>
+    </div>
     <div class="schedule-lecture-links">
     {% include lecture_links.html lecture=include.event %}
     </div>
+    
 </div>
 <!-- <div class="col col-4 markdown-content" data-label="Course Material"> -->
     <!-- {% if include.event.suggested_readings %}
