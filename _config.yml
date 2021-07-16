@@ -5,13 +5,14 @@ course_semester: ""
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "seminar.haow.ca" # the base hostname & protocol for your site
 
-schoolname: "University of Houston, Louisiana State University, University of Louisiana-lafayette"
-schoolurl: "www.haow.ca"
+schoolname: "University of Houston | Louisiana State University | University of Louisiana-Lafayette"
+schoolurl: ""
 twitter_username:  
 
 address: |
+    University of Houston
     Louisiana State University
-    Baton Rouge, Louisiana
+    University of Louisiana-Lafayette
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
