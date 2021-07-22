@@ -15,19 +15,42 @@ instructors:
     profile_pic: /_images/pp/Hao_Wang.jpg
     webpage: https://www.haow.ca/
 
-
 teaching_assistants:
   - name: Rui Chen
-    profile_pic: /_images/pp/tinygrap.svg
-    webpage: 
-
-  - name: Xiaobing Chen
     profile_pic: /_images/pp/tinygrap.svg
     webpage: 
 
   - name: Jiadong Lou
     profile_pic: /_images/pp/tinygrap.svg
     webpage:  
+
+  - name: Jiahao Ding
+    profile_pic: /_images/pp/tinygrap.svg
+    webpage:
+      
+  - name: Dian Shi
+    profile_pic: /_images/pp/tinygrap.svg
+    webpage: 
+
+  - name: Pavana Prakash
+    profile_pic: /_images/pp/tinygrap.svg
+    webpage: 
+
+  - name: Chenpei Huang
+    profile_pic: /_images/pp/tinygrap.svg
+    webpage:  
+
+  - name: Arturo Haces-Garcia
+    profile_pic: /_images/pp/tinygrap.svg
+    webpage: 
+
+  - name: Huai-an Su 
+    profile_pic: /_images/pp/tinygrap.svg
+    webpage: 
+
+  - name: Xiaobing Chen
+    profile_pic: /_images/pp/tinygrap.svg
+    webpage: 
 
   - name: Honglu Li
     profile_pic: /_images/pp/tinygrap.svg
