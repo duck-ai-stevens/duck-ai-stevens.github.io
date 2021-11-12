@@ -44,4 +44,15 @@ permalink: /about/
                 {% endfor %}
             </div>
         </div>
+
+        <div style="width:100%; float: left">
+            <div class="profile-pic-gallary ">
+                <h2>Website Admin</h2>
+                <div class="image--cover-container">
+                    <img src="/_images/pp/honglu.jpeg" class="image--cover">
+                    <p>Honglu Li <a href="mailto:hli67@lsu.edu">hli67@lsu.edu</a></p>
+                </div>
+            </div>
+        </div>
+
     </div>
