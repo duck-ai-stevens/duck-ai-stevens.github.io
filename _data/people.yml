@@ -1,61 +1,73 @@
 instructors:
-  - name: Miao Pan
-    profile_pic: /_images/pp/miao.jpg
-    webpage: http://www2.egr.uh.edu/~mpan2/
+  - name: Zhuo Feng
+    profile_pic: /_images/zfeng12.avif
+    webpage: https://www.stevens.edu/profile/zfeng12
 
-  - name: Xiangwei Zhou
-    profile_pic: /_images/pp/xiangwei.jpg
-    webpage: https://www.ece.lsu.edu/xwzhou/
-
-  - name: Mingxuan Sun
-    profile_pic: /_images/pp/mingxuan.jpg
-    webpage: https://www.csc.lsu.edu/~msun/
-
-  - name: Xu Yuan
-    profile_pic: /_images/pp/xu.jpg
-    webpage: https://people.cmix.louisiana.edu/yuan/index.html
+  - name: Yanghyo (Rod) Kim
+    profile_pic: /_images/rodkim.png
+    webpage: https://www.stevens.edu/profile/ykim19
 
   - name: Hao Wang
-    profile_pic: /_images/pp/Hao_Wang.jpg
-    webpage: https://www.haow.ca/
+    profile_pic: /_images/haowang-head-ss.jpg
+    webpage: https://intellisys.haow.us/haowang/
 
 teaching_assistants:
-  - name: Rui Chen
-    profile_pic: /_images/pp/tinygrap.svg
+  - name: Lizhou Qi
+    profile_pic: /_images/stevens-duck.png
     webpage: 
 
-  - name: Jiadong Lou
-    profile_pic: /_images/pp/tinygrap.svg
-    webpage:  
-
-  - name: Jiahao Ding
-    profile_pic: /_images/pp/tinygrap.svg
-    webpage:
-      
-  - name: Dian Shi
-    profile_pic: /_images/pp/tinygrap.svg
+  - name: Philip Mascaro
+    profile_pic: /_images/stevens-duck.png
     webpage: 
 
-  - name: Pavana Prakash
-    profile_pic: /_images/pp/tinygrap.svg
+  - name: Jinwen Wu
+    profile_pic: /_images/stevens-duck.png
     webpage: 
 
-  - name: Chenpei Huang
-    profile_pic: /_images/pp/tinygrap.svg
-    webpage:  
-
-  - name: Arturo Haces-Garcia
-    profile_pic: /_images/pp/tinygrap.svg
+  - name: Hamed Sajadinia
+    profile_pic: /_images/stevens-duck.png
     webpage: 
 
-  - name: Huai-an Su 
-    profile_pic: /_images/pp/tinygrap.svg
+  - name: Yihang Yuan
+    profile_pic: /_images/stevens-duck.png
     webpage: 
 
-  - name: Xiaobing Chen
-    profile_pic: /_images/pp/tinygrap.svg
+  - name: Soumen Sikder Shuvo
+    profile_pic: /_images/stevens-duck.png
     webpage: 
 
-  - name: Honglu Li
-    profile_pic: /_images/pp/honglu.jpeg
+  - name: John Anticev
+    profile_pic: /_images/stevens-duck.png
     webpage: 
+
+  - name: Wuxinlin Cheng
+    profile_pic: /_images/stevens-duck.png
+    webpage: 
+
+  - name: Ratanak Phon
+    profile_pic: /_images/ratanak.jpg
+    webpage: 
+
+  - name: Abhishek Sharma
+    profile_pic: /_images/abhishek.png
+    webpage: 
+  
+  - name: Walter Wargacki
+    profile_pic: /_images/walter2.jpg
+    webpage: 
+  
+  - name: Hanfei Yu
+    profile_pic: /_images/hanfei-new.jpg
+    webpage: https://hanfeiyu.github.io/
+
+  - name: Zixun Xiong
+    profile_pic: /_images/zixun.jpg
+    webpage: 
+
+  - name: Qingyang Yu
+    profile_pic: /_images/qingyang.jpg
+    webpage: 
+  
+  - name: Rui (Ricky) Wei
+    profile_pic: /_images/ruiwei.jpg
+    webpage: https://me.waynetech.site/

@@ -1,18 +1,18 @@
 # Site settings
-course_name: UH LSU UL Joint Research Seminar
+course_name: Stevens HUDSONLab Research Seminar
 course_semester: ""
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "seminar.haow.ca" # the base hostname & protocol for your site
+url: "seminar.haow.us" # the base hostname & protocol for your site
 
-schoolname: "University of Houston | Louisiana State University | University of Louisiana-Lafayette"
+schoolname: "Stevens Institute of Technology"
 schoolurl: ""
 twitter_username:  
 
 address: |
-    University of Houston
-    Louisiana State University
-    University of Louisiana-Lafayette
+    HUDSONLab
+    Department of Electrical and Computer Engineering
+    Stevens Institute of Technology
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X

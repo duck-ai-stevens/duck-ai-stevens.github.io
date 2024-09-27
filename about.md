@@ -47,10 +47,14 @@ permalink: /about/
 
         <div style="width:100%; float: left">
             <div class="profile-pic-gallary ">
-                <h2>Website Admin</h2>
+                <h2>Seminar Co-Chairs</h2>
                 <div class="image--cover-container">
-                    <img src="/_images/pp/honglu.jpeg" class="image--cover">
-                    <p>Honglu Li <a href="mailto:hli67@lsu.edu">hli67@lsu.edu</a></p>
+                    <img src="/_images/hanfei-new.jpg" class="image--cover">
+                    <a href="https://hanfeiyu.github.io/">Hanfei Yu</a>
+                </div>
+                <div class="image--cover-container">
+                    <img src="/_images/stevens-duck.png" class="image--cover">
+                    <a href="">John Anticev</a>
                 </div>
             </div>
         </div>
