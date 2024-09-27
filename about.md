@@ -4,28 +4,18 @@ title: About
 permalink: /about/
 ---
 
-
-
   <div>
-        <div style="width:100%;">
-            <!-- <h2>Instructors</h2> -->
-            <!-- <div class="image--cover-container">
-                <img src="{{site.data.people.instructor.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                <p>{{site.data.people.instructor.name}}</p>
-            </div> -->
-
+        <div style="width:100%; float: left">
             <div class="profile-pic-gallary ">
-                <h2>Faculties</h2>
-                {% for ins in site.data.people.instructors %}
+                <h2>Seminar Co-Chairs</h2>
                 <div class="image--cover-container">
-                    <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                    {% if ins.webpage %}
-                    <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
-                    {% else %}
-                    <p>{{ins.name}}</p>
-                    {% endif %}
+                    <img src="/_images/hanfei-new.jpg" class="image--cover">
+                    <a href="https://hanfeiyu.github.io/">Hanfei Yu</a>
                 </div>
-                {% endfor %}
+                <div class="image--cover-container">
+                    <img src="/_images/stevens-duck.png" class="image--cover">
+                    <a href="">John Anticev</a>
+                </div>
             </div>
         </div>
 
@@ -46,16 +36,24 @@ permalink: /about/
         </div>
 
         <div style="width:100%; float: left">
+            <!-- <h2>Instructors</h2> -->
+            <!-- <div class="image--cover-container">
+                <img src="{{site.data.people.instructor.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                <p>{{site.data.people.instructor.name}}</p>
+            </div> -->
+
             <div class="profile-pic-gallary ">
-                <h2>Seminar Co-Chairs</h2>
+                <h2>Faculties</h2>
+                {% for ins in site.data.people.instructors %}
                 <div class="image--cover-container">
-                    <img src="/_images/hanfei-new.jpg" class="image--cover">
-                    <a href="https://hanfeiyu.github.io/">Hanfei Yu</a>
+                    <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    {% if ins.webpage %}
+                    <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
+                    {% else %}
+                    <p>{{ins.name}}</p>
+                    {% endif %}
                 </div>
-                <div class="image--cover-container">
-                    <img src="/_images/stevens-duck.png" class="image--cover">
-                    <a href="">John Anticev</a>
-                </div>
+                {% endfor %}
             </div>
         </div>
 

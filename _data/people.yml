@@ -55,6 +55,10 @@ teaching_assistants:
   - name: Walter Wargacki
     profile_pic: /_images/walter2.jpg
     webpage: 
+
+  - name: Rui (Ricky) Wei
+    profile_pic: /_images/ruiwei.jpg
+    webpage: https://me.waynetech.site/
   
   - name: Hanfei Yu
     profile_pic: /_images/hanfei-new.jpg
@@ -68,6 +72,3 @@ teaching_assistants:
     profile_pic: /_images/qingyang.jpg
     webpage: 
   
-  - name: Rui (Ricky) Wei
-    profile_pic: /_images/ruiwei.jpg
-    webpage: https://me.waynetech.site/
