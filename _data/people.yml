@@ -1,15 +1,19 @@
 instructors:
-  - name: Zhuo Feng
+  - name: Zhuo Feng (ECE)
     profile_pic: /_images/zfeng12.avif
     webpage: https://www.stevens.edu/profile/zfeng12
 
-  - name: Yanghyo (Rod) Kim
+  - name: Yanghyo (Rod) Kim (ECE)
     profile_pic: /_images/rodkim.png
     webpage: https://www.stevens.edu/profile/ykim19
 
-  - name: Hao Wang
+  - name: Hao Wang (ECE)
     profile_pic: /_images/haowang-head-ss.jpg
     webpage: https://intellisys.haow.us/haowang/
+
+  - name: Shaoyi Huang (CS)
+    profile_pic: /_images/haowang-head-ss.jpg
+    webpage: https://www.shaoyihuang.com/
 
 teaching_assistants:
   - name: Lizhou Qi
@@ -70,5 +74,9 @@ teaching_assistants:
 
   - name: Qingyang Yu
     profile_pic: /_images/qingyang.jpg
+    webpage: 
+
+  - name: Zhendong Mi
+    profile_pic: /_images/stevens-duck.png
     webpage: 
   
