@@ -4,24 +4,7 @@ layout: home
 ![topic_banner](/_images/banner.jpg)
 **Motivation and Scope (Call for Papers):**
 
-Artificial Intelligence (AI) and Machine Learning (ML) has become a potent tool in the
-domains on next-generation computing and networked systems, and sustainable and
-innovative energy systems, addressing complex tasks across edge computing, data centers,
-wireless networks, cyber-physical systems, quantum computing and communication, just
-to name a few. Enhancing the performance of AI/ML based technology development in
-these domains and facilitating AI/ML on top of a wide spectrum of systems, energy and
-emerging applications have become increasingly paramount. Recent research has
-highlighted the effectiveness of AI/ML techniques, including but not limited to
-reinforcement and online learning, federated and distributed learning, deep learning,
-generative AI, Large language models (LLMs), trustworthy and privacy-preserving
-AI/ML, in compromising such systems. Therefore, developing efficient, reliable and robust
-AI/ML algorithms for future systems, energy and emerging applications is crucial,
-especially ones that can operate effectively with limited energy, communication and
-computation resources. In response to these challenges, this workshop aims to bring
-together researchers from the AI/ML, networking, systems and energy fields globally to
-address open issues in this interdisciplinary research area. This workshop is intended to
-provide a focus on AI/ML technologies at SIGMETRICS conferences for talks on early
-research on the subject.
+Artificial Intelligence (AI) and Machine Learning (ML) has become a potent tool in the domains on next-generation computing and networked systems, and sustainable and innovative energy systems, addressing complex tasks across edge computing, data centers, wireless networks, cyber-physical systems, quantum computing and communication, just to name a few. Enhancing the performance of AI/ML based technology development in these domains and facilitating AI/ML on top of a wide spectrum of systems, energy and emerging applications have become increasingly paramount. Recent research has highlighted the effectiveness of AI/ML techniques, including but not limited to reinforcement and online learning, federated and distributed learning, deep learning, generative AI, Large language models (LLMs), trustworthy and privacy-preserving AI/ML, in compromising such systems. Therefore, developing efficient, reliable and robust AI/ML algorithms for future systems, energy and emerging applications is crucial, especially ones that can operate effectively with limited energy, communication and computation resources. In response to these challenges, this workshop aims to bring together researchers from the AI/ML, networking, systems and energy fields globally to address open issues in this interdisciplinary research area. This workshop is intended to provide a focus on AI/ML technologies at SIGMETRICS conferences for talks on early research on the subject.
 
 The workshop topics include but not limited to:
 
