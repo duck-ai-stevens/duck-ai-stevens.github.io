@@ -1,18 +1,17 @@
 # Site settings
-course_name: Stevens HUDSONLab Research Seminar
+course_name: "AI Crossroads: Systems, Energy, and Applications"
 course_semester: ""
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "seminar.haow.us" # the base hostname & protocol for your site
+url: "http://intellisys-lab.github.io/ai-crossroads" # the base hostname & protocol for your site
 
-schoolname: "Stevens Institute of Technology"
-schoolurl: ""
+schoolname: "ACM SIGMETRICS"
+schoolurl: "https://www.sigmetrics.org/sigmetrics2025/"
 twitter_username:  
 
 address: |
-    HUDSONLab
-    Department of Electrical and Computer Engineering
-    Stevens Institute of Technology
+    AI Crossroads: Systems, Energy, and Applications
+    ACM SIGMETRICS 2025 Workshop
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
