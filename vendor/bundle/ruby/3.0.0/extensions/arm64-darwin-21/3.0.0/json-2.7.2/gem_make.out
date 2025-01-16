@@ -1,0 +1,13 @@
+current directory: /Users/haowang/Documents/Code/AI-crossroads-workshop/vendor/bundle/ruby/3.0.0/gems/json-2.7.2/ext/json
+/Users/haowang/.rbenv/versions/3.0.0/bin/ruby -I /Users/haowang/.rbenv/versions/3.0.0/lib/ruby/3.0.0 -r ./siteconf20250116-39390-la6p9o.rb extconf.rb
+creating Makefile
+
+current directory: /Users/haowang/Documents/Code/AI-crossroads-workshop/vendor/bundle/ruby/3.0.0/gems/json-2.7.2/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/haowang/Documents/Code/AI-crossroads-workshop/vendor/bundle/ruby/3.0.0/gems/json-2.7.2/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/haowang/Documents/Code/AI-crossroads-workshop/vendor/bundle/ruby/3.0.0/gems/json-2.7.2/ext/json
+make "DESTDIR=" install

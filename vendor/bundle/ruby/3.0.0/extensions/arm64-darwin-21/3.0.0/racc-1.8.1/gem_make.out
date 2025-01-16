@@ -1,0 +1,16 @@
+current directory: /Users/haowang/Documents/Code/AI-crossroads-workshop/vendor/bundle/ruby/3.0.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/haowang/.rbenv/versions/3.0.0/bin/ruby -I /Users/haowang/.rbenv/versions/3.0.0/lib/ruby/3.0.0 -r ./siteconf20250116-39390-lytrzb.rb extconf.rb
+creating Makefile
+
+current directory: /Users/haowang/Documents/Code/AI-crossroads-workshop/vendor/bundle/ruby/3.0.0/gems/racc-1.8.1/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /Users/haowang/Documents/Code/AI-crossroads-workshop/vendor/bundle/ruby/3.0.0/gems/racc-1.8.1/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: -multiply_defined is obsolete
+
+current directory: /Users/haowang/Documents/Code/AI-crossroads-workshop/vendor/bundle/ruby/3.0.0/gems/racc-1.8.1/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250116-39390-omoh35/racc
