@@ -2,7 +2,7 @@
 course_name: "AI Crossroads: Systems, Energy, and Applications"
 course_semester: ""
 
-baseurl: "intellisys-lab.github.io/ai-crossroads" # the subpath of your site, e.g. /blog/
+baseurl: "/intellisys-lab.github.io/ai-crossroads" # the subpath of your site, e.g. /blog/
 url: "intellisys-lab.github.io/ai-crossroads" # the base hostname & protocol for your site
 
 schoolname: "ACM SIGMETRICS"

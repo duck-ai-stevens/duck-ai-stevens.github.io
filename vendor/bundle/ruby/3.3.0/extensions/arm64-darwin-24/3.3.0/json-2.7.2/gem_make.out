@@ -1,0 +1,16 @@
+current directory: /Users/haowang/Documents/Code/AI-crossroads-workshop/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+/Users/haowang/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/haowang/Documents/Code/AI-crossroads-workshop/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20250116-17130-29ywpe sitelibdir\=./.gem.20250116-17130-29ywpe clean
+
+current directory: /Users/haowang/Documents/Code/AI-crossroads-workshop/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20250116-17130-29ywpe sitelibdir\=./.gem.20250116-17130-29ywpe
+make: Nothing to be done for `all'.
+
+current directory: /Users/haowang/Documents/Code/AI-crossroads-workshop/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20250116-17130-29ywpe sitelibdir\=./.gem.20250116-17130-29ywpe install
+
+current directory: /Users/haowang/Documents/Code/AI-crossroads-workshop/vendor/bundle/ruby/3.3.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20250116-17130-29ywpe sitelibdir\=./.gem.20250116-17130-29ywpe clean

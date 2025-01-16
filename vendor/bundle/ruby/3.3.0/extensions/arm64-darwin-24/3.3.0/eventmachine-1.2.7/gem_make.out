@@ -1,0 +1,19 @@
+current directory: /Users/haowang/Documents/Code/AI-crossroads-workshop/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/haowang/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/haowang/Documents/Code/AI-crossroads-workshop/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250116-17130-lsj8ql sitelibdir\=./.gem.20250116-17130-lsj8ql clean
+
+current directory: /Users/haowang/Documents/Code/AI-crossroads-workshop/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250116-17130-lsj8ql sitelibdir\=./.gem.20250116-17130-lsj8ql
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/haowang/Documents/Code/AI-crossroads-workshop/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250116-17130-lsj8ql sitelibdir\=./.gem.20250116-17130-lsj8ql install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20250116-17130-lsj8ql
+
+current directory: /Users/haowang/Documents/Code/AI-crossroads-workshop/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20250116-17130-lsj8ql sitelibdir\=./.gem.20250116-17130-lsj8ql clean
