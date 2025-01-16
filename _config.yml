@@ -2,10 +2,10 @@
 course_name: "AI Crossroads: Systems, Energy, and Applications"
 course_semester: ""
 
-baseurl: "/intellisys-lab.github.io/ai-crossroads" # the subpath of your site, e.g. /blog/
-url: "intellisys-lab.github.io/ai-crossroads" # the base hostname & protocol for your site
+baseurl: "/ai-crossroads/" # the subpath of your site, e.g. /blog/
+url: "intellisys-lab.github.io" # the base hostname & protocol for your site
 
-schoolname: "ACM SIGMETRICS"
+schoolname: "ACM SIGMETRICS 2025 Workshop"
 schoolurl: "https://www.sigmetrics.org/sigmetrics2025/"
 twitter_username:  
 
