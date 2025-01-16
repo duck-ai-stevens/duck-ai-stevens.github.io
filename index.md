@@ -31,8 +31,8 @@ systems
 * Devesh Tiwari (Northeastern University)
 
 **Schedule (Tentative):**
-* Submission deadline: April 25, 2025
-* Acceptance notification: May 9, 2025
+* Submission deadline: April 1, 2025
+* Acceptance notification: April 15, 2025
 * Final version: May 30, 2025
 * PER Camera ready: June 30, 2025
 * Workshop date: June 13, 2025
