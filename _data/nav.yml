@@ -3,9 +3,9 @@ items:
   name: Home
   icon_class: fa fa-home fa-lg
 
-# - url: /schedule/
-#   name: Schedule
-#   icon_class: fas fa-calendar-alt
+- url: /schedule/
+  name: Schedule
+  icon_class: fas fa-calendar-alt
 
 # - url: /lectures/
 #   name: Lectures
@@ -15,6 +15,6 @@ items:
 #   name: Assignments
 #   icon_class: fas fa-user-graduate
 
-- url: /about/
-  name: About
-  icon_class: fas fa-user
+# - url: /about/
+#   name: About
+#   icon_class: fas fa-user
