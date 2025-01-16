@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-
+![topic_banner](/_images/banner.jpg)
 **Motivation and Scope (Call for Papers):**
 
 Artificial Intelligence (AI) and Machine Learning (ML) has become a potent tool in the
@@ -55,5 +55,5 @@ systems
 * Workshop date: June 13, 2025
 
 **Workshop Format:**
-Keynote/Invited talks (2-3) and contributed papers and posters
-(approximately 10-12)
+
+Keynote/Invited talks (2-3) and contributed papers and posters (approximately 10-12)
