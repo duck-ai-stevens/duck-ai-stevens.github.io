@@ -29,6 +29,7 @@ systems
 * Jian Li (Stony Brook University)
 * Hao Wang (Stevens Institute of Technology)
 * Devesh Tiwari (Northeastern University)
+* Jiawei (Joe) Zhou (Stony Brook University)
 
 **Schedule (Tentative):**
 * Submission deadline: April 1, 2025
