@@ -29,7 +29,7 @@ All submissions will undergo review by the program committee, and a selection of
 
 Authors of accepted papers grant ACM permission to publish them in both print and digital formats. However, there are no copyright restrictions with PER—authors retain full copyright of their work and have complete freedom to submit it elsewhere, as explicitly stated in the standard PER format.
 
-Submission Website: HotCRP (link TBD)
+**Submission Website:** HotCRP (link TBD)
 
 
 **Organizers/Program Chairs:**
