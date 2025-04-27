@@ -15,6 +15,10 @@ items:
 #   name: Assignments
 #   icon_class: fas fa-user-graduate
 
-# - url: /about/
-#   name: About
-#   icon_class: fas fa-user
+- url: /cfp/
+  name: Call for Papers
+  icon_class: fa fa-upload
+
+- url: /accepted/
+  name: Accepted Papers
+  icon_class: fa fa-check-square
