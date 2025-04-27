@@ -47,12 +47,12 @@ function toggleContent(button) {
 <div class="home" style="font-size: 1em;">
     <ul class="responsive-table" style="margin-left: 0; border-bottom: 0.1em solid whitesmoke;">
         <li class="table-row">
-            <div class="col col-2" data-label="Time">
+            <div class="col-12 col-md-12">
                 <div class="image--cover-container">
                     <img src="/_images/Shantenu.jpg" class="image--cover">
                 </div>
             </div>
-            <div class="col col-10" data-label="Description">
+            <div class="col-12 col-md-12">
                 <p><b><a href="https://radical.rutgers.edu/people/shantenu-jha">Dr. Shantenu Jha</a></b> | Rutgers University</p>
                 <b>AI-Coupled HPC Workflow Applications: A New Paradigm for Extreme-Scale Scientific Applications</b>
                 <div class="expandable-content collapsed">
@@ -63,12 +63,12 @@ function toggleContent(button) {
             </div>  
         </li>
         <li class="table-row">
-            <div class="col col-2" data-label="Time">
+            <div class="col-12 col-md-12">
                 <div class="image--cover-container">
                     <img src="/_images/lwu11.png" class="image--cover">
                 </div>
             </div>
-            <div class="col col-10" data-label="Description">
+            <div class="col-12 col-md-12">
                 <p><b><a href="https://sites.google.com/site/leiwupes/">Dr. Lei Wu</a></b> | Stevens Institute of Technology</p>
                 <b>Leveraging Machine Learning for Boosting Performance of Power Systems Optimization Problems</b>
                 <div class="expandable-content collapsed">
@@ -79,12 +79,12 @@ function toggleContent(button) {
             </div>  
         </li>
         <li class="table-row">
-            <div class="col col-2" data-label="Time">
+            <div class="col-12 col-md-12">
                 <div class="image--cover-container">
                     <img src="/_images/ShaoleiRen_full_2.jpg" class="image--cover">
                 </div>
             </div>
-            <div class="col col-10" data-label="Description">
+            <div class="col-12 col-md-12">
                 <p><b><a href="https://shaoleiren.github.io">Dr. Shaolei Ren</a></b> | University of California, Riverside</p>
                 <b>AI, Energy, and Public Health</b>
                 <div class="expandable-content collapsed">
@@ -95,12 +95,12 @@ function toggleContent(button) {
             </div>  
         </li>
         <!-- <li class="table-row">
-            <div class="col col-2" data-label="Time">
+            <div class="col-12 col-md-12">
                 <div class="image--cover-container">
                     <img src="/_images/Anshumali-Shrivastava.jpg" class="image--cover">
                 </div>
             </div>
-            <div class="col col-10" data-label="Description">
+            <div class="col-12 col-md-12">
                 <p><b><a href="https://www.cs.rice.edu/~as143/">Dr. Anshumali Shrivastava</a></b> | Rice University</p>
                 <b>TBD</b>
                 <div class="expandable-content collapsed">
