@@ -1,6 +1,6 @@
 # Site settings
 course_name: "AI Crossroads: Systems, Energy, and Applications"
-course_semester: ""
+course_semester: "<br /> ACM SIGMETRICS 2025 Workshop | Stony Brook, New York, USA, June 13, 2025"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "ai-crossroads.github.io" # the base hostname & protocol for your site
@@ -11,7 +11,7 @@ twitter_username:
 
 address: |
     AI Crossroads: Systems, Energy, and Applications
-    ACM SIGMETRICS 2025 Workshop
+    ACM SIGMETRICS 2025 Workshop | Stony Brook, New York, USA, June 13, 2025
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
