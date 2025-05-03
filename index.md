@@ -94,6 +94,22 @@ function toggleContent(button) {
                 <button class="expand-btn" onclick="toggleContent(this)">More</button>
             </div>  
         </li>
+        <li class="table-row">
+            <div class="col-12 col-md-12">
+                <div class="image--cover-container">
+                    <img src="/_images/Anshumali-Shrivastava.jpg" class="image--cover">
+                </div>
+            </div>
+            <div class="col-12 col-md-12">
+                <p><b><a href="https://www.cs.rice.edu/~as143/">Dr. Anshumali Shrivastava</a></b> | Rice University</p>
+                <b>TBD</b>
+                <div class="expandable-content collapsed">
+                    <p>TBD.</p>
+                    <p><b>Short Bio: </b>TBD</p>
+                </div>
+                <button class="expand-btn" onclick="toggleContent(this)">More</button>
+            </div>  
+        </li>
         <!-- <li class="table-row">
             <div class="col-12 col-md-12">
                 <div class="image--cover-container">

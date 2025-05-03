@@ -1,14 +1,14 @@
 <!-- <div class="col col-1" data-label="Event">Lecture</div> -->
-<div class="col col-2" data-label="Time">
+<div class="col-1" data-label="Time">
     <!-- {{ include.event.date | date: site.dateformat }} -->
     <!-- <br class="date-spliter"/> -->
     {{ include.event.start_time }}--{{ include.event.end_time }}
 </div>
-<div class="col col-3" data-label="Event">
+<div class="col-2" data-label="Event">
     {{ include.event.title }}
     {% if include.event.presenter %}
     <div>
-        <i>Presenter: {{ include.event.presenter }}</i>
+        <i>{{ include.event.presenter }}</i>
     </div>
     {% endif %}
     <div class="schedule-lecture-links">
@@ -16,7 +16,7 @@
     </div>
     
 </div>
-<div class="col col-6" data-label="Description">
+<div class="col-4" data-label="Description">
     {% if include.event.description %}
     <div>
         {{ include.event.description }}
