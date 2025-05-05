@@ -1,17 +1,17 @@
 # Site settings
-course_name: "AI Crossroads: Systems, Energy, and Applications"
-course_semester: "<br /> ACM SIGMETRICS 2025 Workshop | Stony Brook, New York, USA, June 13, 2025"
+course_name: "DuckAI"
+course_semester: "<br /> DuckAI | Hoboken, New Jersey, USA, May 15, 2025"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "ai-crossroads.github.io" # the base hostname & protocol for your site
+url: "duckai.github.io" # the base hostname & protocol for your site
 
-schoolname: "ACM SIGMETRICS 2025 Workshop"
+schoolname: "DuckAI Workshop"
 schoolurl: "https://www.sigmetrics.org/sigmetrics2025/"
 twitter_username:  
 
 address: |
-    AI Crossroads: Systems, Energy, and Applications
-    ACM SIGMETRICS 2025 Workshop | Stony Brook, New York, USA, June 13, 2025
+    DuckAI
+    DuckAI 2025 Workshop | Hoboken, New Jersey, USA, May 15, 2025
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
