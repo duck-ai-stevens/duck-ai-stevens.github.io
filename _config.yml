@@ -3,7 +3,7 @@ course_name: "DuckAI"
 course_semester: "<br /> DuckAI | Hoboken, New Jersey, USA, May 15, 2025"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "duckai.github.io" # the base hostname & protocol for your site
+url: "duck-ai-stevens.github.io" # the base hostname & protocol for your site
 
 schoolname: "DuckAI Workshop"
 schoolurl: "https://www.sigmetrics.org/sigmetrics2025/"
