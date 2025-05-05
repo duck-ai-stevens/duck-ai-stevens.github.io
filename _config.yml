@@ -1,17 +1,17 @@
 # Site settings
-course_name: "DuckAI"
-course_semester: "<br /> DuckAI | Hoboken, New Jersey, USA, May 15, 2025"
+course_name: "DuckAI 2025"
+course_semester: "The 1st iCNS/ECE Symposium on AI Research and Innovations"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "duck-ai-stevens.github.io" # the base hostname & protocol for your site
 
-schoolname: "DuckAI Workshop"
+schoolname: "The 1st iCNS/ECE Symposium on AI Research and Innovations"
 schoolurl: "https://www.sigmetrics.org/sigmetrics2025/"
 twitter_username:  
 
 address: |
-    DuckAI
-    DuckAI 2025 Workshop | Hoboken, New Jersey, USA, May 15, 2025
+    DuckAI 2025
+    DuckAI 2025 | ECE/iCNS | Stevens Institute of Technology
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
