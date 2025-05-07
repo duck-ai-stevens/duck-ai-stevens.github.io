@@ -1,8 +1,8 @@
 ---
 type: lecture
-start_time: "09:10"
-end_time: "09:45"
-title: "Invited Talk 1"
-presenter: Dr. Shaolei Ren
-description: "AI, Energy, and Public Health"
+start_time: "09:30"
+end_time: "10:20"
+title: "Invited Talk Session 1 - Host: Dr. Hao Wang"
+presenter: 
+description: 
 ---

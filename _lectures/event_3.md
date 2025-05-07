@@ -1,8 +1,7 @@
 ---
 type: lecture
-start_time: "09:45"
-end_time: "10:20"
-title: "Invited Talk 2"
-presenter: Dr. Anshumali Shrivastava 
-description: "TBD"
+start_time: "10:20"
+end_time: "10:40"
+title: "Coffee Break"
+description: ""
 ---

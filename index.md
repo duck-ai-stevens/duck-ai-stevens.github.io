@@ -52,6 +52,8 @@ The 1st iCNS/ECE Symposium on AI Research and Innovations (DuckAI 2025) is a one
 * 8:30 a.m. – 3:00 p.m.
 * **Burchard 111**, Stevens Institute of Technology
 
+<!-- 
+
 ## Agenda
 
 * 8:30 AM - Check in
@@ -62,16 +64,56 @@ The 1st iCNS/ECE Symposium on AI Research and Innovations (DuckAI 2025) is a one
 * 11:30 AM - Lunch
 * 1:00 PM - Student Project Poster & Demo
 * 2:30 PM - Award announcement
-* 3:00 PM - Adjourn
+* 3:00 PM - Adjourn -->
 
 Registration link: [https://forms.gle/iPaCFxUheVo6YdGZ7](https://forms.gle/iPaCFxUheVo6YdGZ7)
 
-<!-- **Organizers/Program Chairs:**
 
-* [Jian Li](https://sites.google.com/stonybrook.edu/jianli) (Stony Brook University)
-* [Hao Wang](https://intellisys.haow.us/haowang/) (Stevens Institute of Technology)
-* [Devesh Tiwari](https://coe.northeastern.edu/people/tiwari-devesh/) (Northeastern University)
-* [Jiawei (Joe) Zhou](https://joezhouai.com) (Stony Brook University) -->
+**Keynote Speakers**
+<div class="home" style="font-size: 1em;">
+    <ul class="responsive-table" style="margin-left: 0; border-bottom: 0.1em solid whitesmoke;">
+        <li class="table-row">
+            <div class="col-12 col-md-12">
+                <div class="image--cover-container">
+                    <img src="" class="image--cover">
+                </div>
+            </div>
+            <div class="col-12 col-md-12">
+                <p><b><a href="">Santosh Borse</a></b> | IBM </p>
+                <b>TBD</b>
+                <div class="expandable-content collapsed">
+                    <p>TBD.</p>
+                    <p><b>Short Bio:</b> TBD.</p>
+                </div>
+                <button class="expand-btn" onclick="toggleContent(this)">More</button>
+            </div>  
+        </li>
+        <li class="table-row">
+            <div class="col-12 col-md-12">
+                <div class="image--cover-container">
+                    <img src="" class="image--cover">
+                </div>
+            </div>
+            <div class="col-12 col-md-12">
+                <p><b><a href="">Zengye Wang</a></b> | Armistice Capital LLC </p>
+                <b>TBD</b>
+                <div class="expandable-content collapsed">
+                    <p>TBD.</p>
+                    <p><b>Short Bio:</b> TBD.</p>
+                </div>
+                <button class="expand-btn" onclick="toggleContent(this)">More</button>
+            </div>  
+        </li>
+        
+    </ul>
+</div>
+
+
+## Organizers:
+
+* [Shucheng Yu](https://www.stevens.edu/profile/syu19) (ECE@Stevens Institute of Technology)
+* [Hao Wang](https://intellisys.haow.us/haowang/) (ECE@Stevens Institute of Technology)
+ 
 <!-- 
 **Important Dates:**
 * ~~Submission deadline: April 1, 2025~~
