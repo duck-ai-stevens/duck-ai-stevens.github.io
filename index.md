@@ -91,7 +91,7 @@ Registration link: [https://forms.gle/iPaCFxUheVo6YdGZ7](https://forms.gle/iPaCF
         <li class="table-row">
             <div class="col-12 col-md-12">
                 <div class="image--cover-container">
-                    <img src="" class="image--cover">
+                    <img src="_images/zengye.jpeg" class="image--cover">
                 </div>
             </div>
             <div class="col-12 col-md-12">
