@@ -1,10 +1,10 @@
 <!-- <div class="col col-1" data-label="Event">Lecture</div> -->
-<div class="col-1" data-label="Time">
+<div class="col-2" data-label="Time">
     <!-- {{ include.event.date | date: site.dateformat }} -->
     <!-- <br class="date-spliter"/> -->
     {{ include.event.start_time }}--{{ include.event.end_time }}
 </div>
-<div class="col-2" data-label="Event">
+<div class="col-3" data-label="Event">
     {{ include.event.title }}
     {% if include.event.presenter %}
     <div>

@@ -51,6 +51,7 @@ The 1st iCNS/ECE Symposium on AI Research and Innovations (DuckAI 2025) is a one
 * Thursday, May 15, 2025
 * 8:30 a.m. – 3:00 p.m.
 * **Burchard 111**, Stevens Institute of Technology
+    * The poster session will be at the lab underneath the library
 
 <!-- 
 
@@ -69,7 +70,7 @@ The 1st iCNS/ECE Symposium on AI Research and Innovations (DuckAI 2025) is a one
 Registration link: [https://forms.gle/iPaCFxUheVo6YdGZ7](https://forms.gle/iPaCFxUheVo6YdGZ7)
 
 
-**Keynote Speakers**
+## Keynote Speakers
 <div class="home" style="font-size: 1em;">
     <ul class="responsive-table" style="margin-left: 0; border-bottom: 0.1em solid whitesmoke;">
         <li class="table-row">
