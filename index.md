@@ -114,10 +114,10 @@ Registration link: [https://forms.gle/iPaCFxUheVo6YdGZ7](https://forms.gle/iPaCF
             </div>
             <div class="col-12 col-md-12">
                 <p><b><a href="">Zengye Wang</a></b> | Armistice Capital LLC </p>
-                <b>TBD</b>
+                <b>Data Engineering in Hedge Funds: Managing Data at Scale for Finance</b>
                 <div class="expandable-content collapsed">
-                    <p>TBD.</p>
-                    <p><b>Short Bio:</b> TBD.</p>
+                    <p>This talk highlights the role of data engineering in the fast-paced environment of hedge funds. It covers how engineers design and maintain scalable data pipelines, ensure data quality and integrity, and support a wide range of teams from research to compliance. Learn how modern data infrastructure enables better decision-making in the financial industry.</p>
+                    <p><b>Short Bio:</b> Zengye is a full stack quantitative engineer---frontend, backend, site reliability, distributed computing, model implementation. He previously worked at multiple hedge funds and is experienced with production systems.</p> 
                 </div>
                 <button class="expand-btn" onclick="toggleContent(this)">More</button>
             </div>  
