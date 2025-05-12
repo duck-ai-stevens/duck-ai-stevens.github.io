@@ -14,6 +14,8 @@ permalink: /posters/
 
 **Machine Learning Fairness: Racial Bias in Healthcare Algorithm**, Joneil James
 
+**Efficient AI: Optimizing Performance, Speed, and Sustainability**, Dhavan Antal, Dhruv Dixit, Harsh Gautam
+
 **Vision-Driven RL for Legacy Games: A Case Study in The World’s Hardest Game**, George Mularadelis, Dhruv Prasanna, Jason Lee
 
 **Beyond Stockfish: A Hybrid Chess Engine with Neural Intuition**, Michael Burgazoli, Aidan Ouckama, and James Kaddissi
