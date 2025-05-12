@@ -14,6 +14,8 @@ permalink: /posters/
 
 **Machine Learning Fairness: Racial Bias in Healthcare Algorithm**, Joneil James
 
+**Vision-Driven RL for Legacy Games: A Case Study in The World’s Hardest Game**, George Mularadelis, Dhruv Prasanna, Jason Lee
+
 **Beyond Stockfish: A Hybrid Chess Engine with Neural Intuition**, Michael Burgazoli, Aidan Ouckama, and James Kaddissi
 
 **How Aging Impacts Bias in Healthcare**, Mohamed Arshad Peermohamed, Brandon Huang, Rafael Sanchez
