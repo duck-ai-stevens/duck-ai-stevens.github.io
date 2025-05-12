@@ -24,8 +24,6 @@ permalink: /posters/
 
 1. **How Aging Impacts Bias in Healthcare**, Mohamed Arshad Peermohamed, Brandon Huang, Rafael Sanchez [595B]
  
-1. **Beyond Stockfish: A Hybrid Chess Engine with Neural Intuition**, Michael Burgazoli, Aidan Ouckama, James Kaddissi
-
 1. **Symptoma – AI-Powered Symptom and Diagnosis Companion**, Charaneesh Reddy Gadikota, Hruthik Lokesh Puppala, Gyana Sai Adusumilli
  
 1. **Utilizing Social Media Sentiment to Predict BTC Pricing**, Andrew Anantharajah
@@ -44,7 +42,7 @@ permalink: /posters/
  
 1. **Beyond Frames: Hybrid Deep Learning Model for Video Action Recognition**, Rajat Jaiswal
  
-1. **Beyond Stockfish: A Hybrid Chess Engine with Neural Intuition**,  Michael Burgazoli, Aidan Ouckama, Jame Kaddissi
+1. **Beyond Stockfish: A Hybrid Chess Engine with Neural Intuition**,  Michael Burgazoli, Aidan Ouckama, Jame Kaddissi [595WS]
 
 1. **Bias and Fairness in Illinois DOC Inmate Data**, Nicole Angelini and Joshua Richter [595A]
  

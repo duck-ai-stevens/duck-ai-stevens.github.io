@@ -109,6 +109,22 @@ Registration link: [https://forms.gle/iPaCFxUheVo6YdGZ7](https://forms.gle/iPaCF
         <li class="table-row">
             <div class="col-12 col-md-12">
                 <div class="image--cover-container">
+                    <img src="_images/Shirantha_Welikala.jpg" class="image--cover">
+                </div>
+            </div>
+            <div class="col-12 col-md-12">
+                <p><b><a href="http://www.shiranthawelikala.">Dr. Shirantha Welikala</a></b> | ECE @ Stevens Institute of Technology </p>
+                <b>Online Distributed Graph Neural Networks for Distributed Optimal Control of Networked Cyber-Physical Systems</b>
+                <div class="expandable-content collapsed">
+                    <p>In modern large-scale networked cyber-physical systems such as smart grids, robotic networks, and supply chain networks, ensuring optimal performance while maintaining scalability and resilience is a critical challenge. Although powerful, classical optimal control techniques are often centralized and assume full system knowledge, making them ill-suited for decentralized implementation and online adaptation in dynamic environments. This talk presents a novel Graph Recurrent Neural Network (GRNN)-based framework for distributed optimal control in networked cyber-physical systems (N-CPS). Unlike prior approaches that either lack true decentralization or rely on offline training, our method enables online, fully distributed learning of optimal control laws using only local information and local communication among subsystems. We cast the problem as a self-supervised learning task and develop a consensus-inspired distributed training algorithm that allows each agent to independently adapt its controller weights over time. We establish local closed-loop stability guarantees to ensure safety and predictability by leveraging sector and slope restrictions on the nonlinear activation functions used in the GRNN. Numerical results have demonstrated the scalability and real-time training capabilities of the proposed method. The talk will also present ongoing efforts to generalize this framework to nonlinear settings and integrate it into a broader control-topology co-design paradigm for N-CPS.</p>
+                    <p><b>Short Bio: </b>Shirantha Welikala is currently an Assistant Professor in the Department of Electrical and Computer Engineering, Stevens Institute of Technology, Hoboken, NJ, USA (joined Fall 2023). He received the B.Sc. degree in Electrical and Electronic Engineering from the University of Peradeniya, Peradeniya, Sri Lanka, in 2015 and the M.Sc. and the Ph.D. degrees in Systems Engineering from Boston University, Brookline, MA, USA, in 2019 and 2021, respectively. From 2015 to 2017, he was a Temporary Instructor/Research Assistant in the Department of Electrical and Electronic Engineering at the University of Peradeniya, Sri Lanka. From 2021 to 2023, he was a Postdoctoral Research Fellow in the Department of Electrical Engineering, University of Notre Dame, Notre Dame, IN, USA. His main research interests include control and optimization of cooperative multi-agent systems, control of networked systems, passivity-based control, control and topology co-design, machine-learning, robotics, and smart grid. He has received several awards, including the 2015 Ceylon Electricity Board Gold Medal, the 2019 and 2023 President's Awards for Scientific Research in Sri Lanka, the 2021 Outstanding Ph.D. Dissertation Award in Systems Engineering at Boston University, and the 2022 Best Paper Award at the 30th Mediterranean Conference on Control and Automation held in Athens, Greece. For more information, please visit <a href="http://www.shiranthawelikala.com">http://www.shiranthawelikala.com</a>.</p>
+                </div>
+                <button class="expand-btn" onclick="toggleContent(this)">More</button>
+            </div>  
+        </li>
+        <li class="table-row">
+            <div class="col-12 col-md-12">
+                <div class="image--cover-container">
                     <img src="_images/zengye.jpeg" class="image--cover">
                 </div>
             </div>
