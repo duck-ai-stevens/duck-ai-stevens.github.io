@@ -20,6 +20,8 @@ permalink: /posters/
  
 1. **Beyond Stockfish: A Hybrid Chess Engine with Neural Intuition**, Michael Burgazoli, Aidan Ouckama,   James Kaddissi
 
+1. **Securing Image Classifiers Against Adversarial Attacks: A Study on CIFAR-100**, Krishna Sai Srinivas Venigalla, Pradhyumna Nagaraja Holla, Sudharshini Harisaravanan
+
 1. **How Aging Impacts Bias in Healthcare**, Mohamed Arshad Peermohamed, Brandon Huang, Rafael Sanchez
  
 1. **Symptoma – AI-Powered Symptom and Diagnosis Companion**, Charaneesh Reddy Gadikota, Hruthik Lokesh Puppala, Gyana Sai Adusumilli
