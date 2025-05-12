@@ -14,16 +14,18 @@ permalink: /posters/
 
 1. **Machine Learning Fairness: Racial Bias in Healthcare Algorithm**, Joneil James [595B]
 
+1. **Investigating Bias in Heart Disease Prediction Model**, Palak Sood,Sayan Seal, Sakshi Tawte [595B]
+
 1. **Efficient AI: Optimizing Performance, Speed, and Sustainability**, Dhavan Antal, Dhruv Dixit, Harsh Gautam [595B]
  
 1. **Vision-Driven RL for Legacy Games: A Case Study in The World’s Hardest Game**, George Mularadelis, Dhruv Prasanna, Jason Lee [595B]
- 
-1. **Beyond Stockfish: A Hybrid Chess Engine with Neural Intuition**, Michael Burgazoli, Aidan Ouckama,   James Kaddissi
 
 1. **Securing Image Classifiers Against Adversarial Attacks: A Study on CIFAR-100**, Krishna Sai Srinivas Venigalla, Pradhyumna Nagaraja Holla, Sudharshini Harisaravanan [595B]
 
 1. **How Aging Impacts Bias in Healthcare**, Mohamed Arshad Peermohamed, Brandon Huang, Rafael Sanchez [595B]
  
+1. **Beyond Stockfish: A Hybrid Chess Engine with Neural Intuition**, Michael Burgazoli, Aidan Ouckama, James Kaddissi
+
 1. **Symptoma – AI-Powered Symptom and Diagnosis Companion**, Charaneesh Reddy Gadikota, Hruthik Lokesh Puppala, Gyana Sai Adusumilli
  
 1. **Utilizing Social Media Sentiment to Predict BTC Pricing**, Andrew Anantharajah
@@ -51,3 +53,5 @@ permalink: /posters/
 1. **Machine learning based Emergency Prediction & SOS Alert System**, Anshul Rehpade, Braedon Fiume, Raghav Aggarwal [595A]
  
 1. **Optimizing Diffusion Models for Accessible Animation**, Carlos Serrano, Oliver Lee, Rishabh Sinha [595WS1]
+
+1. **DC Microgrid Control Under Time-Varying ZIP Loads Using Online Learning**, Mohammad Javad Najafirad
