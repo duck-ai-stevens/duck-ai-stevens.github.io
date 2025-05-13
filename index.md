@@ -76,7 +76,10 @@ Registration link: [https://forms.gle/iPaCFxUheVo6YdGZ7](https://forms.gle/iPaCF
         <li class="table-row">
             <div class="col-12 col-md-12">
                 <div class="image--cover-container">
-                    <img src="_images/google.jpg" class="image--cover">
+                    <img src="_images/josh.png" class="image--cover">
+                </div>
+                <div class="image--cover-container">
+                    <img src="_images/yufeng.png" class="image--cover">
                 </div>
             </div>
             <div class="col-12 col-md-12">
@@ -84,8 +87,9 @@ Registration link: [https://forms.gle/iPaCFxUheVo6YdGZ7](https://forms.gle/iPaCF
                 <b>Google's AI tools for Developers</b>
                 <div class="expandable-content collapsed">
                     <p>Join this session to learn how to get started with Google's latest AI tools and models, including Gemini, Gemma, JAX, and Keras. We'll cover the latest models, and how to get started.</p>
-                    <p><b>Short Bio:</b> Josh leads AI Developer Relations at Google (fun fact, a groupJosh founded back in 2015). Josh also is an adjunct professor at Columbia, whereJosh occasionally teach classes on deep learning. Josh has extensive experience across many areas of AI---from classical methods, to deep learning, to the latest in generative AI---as well as applications across many fields. Josh wears many hats at Google, and have management and leadership experience.</p>
-                    <p>Yufeng Guo is a Developer Advocate at Google, specializing in Cloud AI. He is dedicated to making machine learning more understandable and usable for all. Yufeng is the creator of the YouTube series “AI Adventures,” which explores the art, science, and tools of machine learning.</p>
+                    <p><b>Short Bio:</b> Josh Gordon is a Senior Staff Developer Advocate at Google, currently focusing on AI Frameworks (JAX, Keras, and PyTorch / XLA). He's also an adjunct professor at two schools - Columbia University, and Pace University - where he occasionally teaches graduate level courses on machine learning. He has over 15 years of machine learning experience to share.</p>
+                    <p>Yufeng is a Developer Advocate focusing on machine learning libraries and frameworks. Yufeng has been at Google for eleven years, and in previous roles at Google, Yufeng built systems to create and curate bespoke datasets for LLMs, created the YouTube series "AI Adventures" at yt.be/AIAdventures, and has spoken at conferences around the globe, including Google I/O, Cloud Next, O'Reilly AI and Strata, PyCon, PyData, ML Prague, dotAI, and OSCON.
+                    He holds a Bachelor's degree in Biomedical Engineering from Johns Hopkins University. He is an avid marathoner and also plays the violin in the NYC Googler Orchestra.</p>
                 </div>
                 <button class="expand-btn" onclick="toggleContent(this)">More</button>
             </div>  
