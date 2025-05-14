@@ -161,7 +161,7 @@ Registration link: [https://forms.gle/iPaCFxUheVo6YdGZ7](https://forms.gle/iPaCF
 * Zixun Xiong 
 
 ## Special Thanks 
-* James Manzella
+* James Manzella (Office Manager @ ECE, Stevens)
 
 <!-- 
 **Important Dates:**
