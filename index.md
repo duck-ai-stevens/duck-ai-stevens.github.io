@@ -152,6 +152,17 @@ Registration link: [https://forms.gle/iPaCFxUheVo6YdGZ7](https://forms.gle/iPaCF
 * [Shucheng Yu](https://www.stevens.edu/profile/syu19) (ECE@Stevens Institute of Technology)
 * [Hao Wang](https://intellisys.haow.us/haowang/) (ECE@Stevens Institute of Technology)
  
+## Volunteers:
+
+* [Xiaochan Xue](https://xueshannon.github.io)
+* Saurabh Parkar
+* Rui Wei
+* Qingyang Yu
+* Zixun Xiong 
+
+## Special Thanks 
+* James Manzella
+
 <!-- 
 **Important Dates:**
 * ~~Submission deadline: April 1, 2025~~
