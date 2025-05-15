@@ -10,7 +10,7 @@ permalink: /posters/
 
 1. **Adversarial Robustness of Traffic Sign Recognition: Evaluating FGSM Attack on Models**, Yasin Hasanpoor, Jingxuan Zhu, Shotitouch Tuangcharoentip [595B]
 
-1. **Cost-Aware Multi-Agent Reinforcement Learning For StarCraftII**, Rui Wei, Qingyang Yu, Zixun Xiong [595B]
+1. **[1st Place Award]** **Cost-Aware Multi-Agent Reinforcement Learning For StarCraftII**, Rui Wei, Qingyang Yu, Zixun Xiong [595B]
 
 1. **Machine Learning Fairness: Racial Bias in Healthcare Algorithm**, Joneil James [595B]
 
@@ -20,7 +20,7 @@ permalink: /posters/
  
 1. **Vision-Driven RL for Legacy Games: A Case Study in The World’s Hardest Game**, George Mularadelis, Dhruv Prasanna, Jason Lee [595B]
 
-1. **Securing Image Classifiers Against Adversarial Attacks: A Study on CIFAR-100**, Krishna Sai Srinivas Venigalla, Pradhyumna Nagaraja Holla, Sudharshini Harisaravanan [595B]
+1. **[2nd Place Award]** **Securing Image Classifiers Against Adversarial Attacks: A Study on CIFAR-100**, Krishna Sai Srinivas Venigalla, Pradhyumna Nagaraja Holla, Sudharshini Harisaravanan [595B]
 
 1. **How Aging Impacts Bias in Healthcare**, Mohamed Arshad Peermohamed, Brandon Huang, Rafael Sanchez [595B]
  
@@ -42,7 +42,7 @@ permalink: /posters/
  
 1. **Beyond Frames: Hybrid Deep Learning Model for Video Action Recognition**, Rajat Jaiswal
  
-1. **Beyond Stockfish: A Hybrid Chess Engine with Neural Intuition**,  Michael Burgazoli, Aidan Ouckama, Jame Kaddissi [595WS]
+1. **[3rd Place Award]** **Beyond Stockfish: A Hybrid Chess Engine with Neural Intuition**,  Michael Burgazoli, Aidan Ouckama, Jame Kaddissi [595WS]
 
 1. **Bias and Fairness in Illinois DOC Inmate Data**, Nicole Angelini and Joshua Richter [595A]
  
