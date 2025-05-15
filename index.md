@@ -162,6 +162,8 @@ Registration link: [https://forms.gle/iPaCFxUheVo6YdGZ7](https://forms.gle/iPaCF
 
 ## Special Thanks 
 * James Manzella (Office Manager @ ECE, Stevens)
+* Lisa Capestro (Academic Advisor)
+* Kevin Lu (Associate Chair for Undergraduate Education)
 
 <!-- 
 **Important Dates:**
