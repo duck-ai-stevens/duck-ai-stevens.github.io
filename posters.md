@@ -53,3 +53,5 @@ permalink: /posters/
 1. **Optimizing Diffusion Models for Accessible Animation**, Carlos Serrano, Oliver Lee, Rishabh Sinha [595WS1]
 
 1. **DC Microgrid Control Under Time-Varying ZIP Loads Using Online Learning**, Mohammad Javad Najafirad
+
+1. **Dynamic Soundscapes with Latent Diffusion Models**, Christian Templin
