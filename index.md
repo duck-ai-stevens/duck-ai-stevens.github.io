@@ -67,7 +67,7 @@ The 1st iCNS/ECE Symposium on AI Research and Innovations (DuckAI 2025) is a one
 * 2:30 PM - Award announcement
 * 3:00 PM - Adjourn -->
 
-Registration link: [https://forms.gle/iPaCFxUheVo6YdGZ7](https://forms.gle/iPaCFxUheVo6YdGZ7)
+<strike>Registration link: [https://forms.gle/iPaCFxUheVo6YdGZ7]</strike>
 
 
 ## Invited Speakers
