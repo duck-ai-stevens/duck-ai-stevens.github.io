@@ -8,19 +8,19 @@ permalink: /posters/
 
 1. **From Diagnosis to Patient Experience: Evaluating Statistical Machine Learning and Deep Learning Models in Healthcare AI**, Connor Phillips, Kaitlin Ciuba, Yogarajan Sivakumar [595B]
 
-1. **Adversarial Robustness of Traffic Sign Recognition: Evaluating FGSM Attack on Models**, Yasin Hasanpoor, Jingxuan Zhu, Shotitouch Tuangcharoentip [595B]
+1. **[Adversarial Robustness of Traffic Sign Recognition: Evaluating FGSM Attack on Models](/assets/fgsm-attack.pdf)**, Yasin Hasanpoor, Jingxuan Zhu, Shotitouch Tuangcharoentip [595B]
 
-1. **[1st Place Award]** **Cost-Aware Multi-Agent Reinforcement Learning For StarCraftII**, Rui Wei, Qingyang Yu, Zixun Xiong [595B]
+1. **[1st Place Award]** **[Cost-Aware Multi-Agent Reinforcement Learning For StarCraftII](/assets/starcraft2.pdf)**, Rui Wei, Qingyang Yu, Zixun Xiong [595B]
 
 1. **Machine Learning Fairness: Racial Bias in Healthcare Algorithm**, Joneil James [595B]
 
-1. **Investigating Bias in Heart Disease Prediction Model**, Palak Sood,Sayan Seal, Sakshi Tawte [595B]
+1. **[Investigating Bias in Heart Disease Prediction Model](/assets/Poster_UnbiasedMinds_page-0001.jpg)**, Palak Sood,Sayan Seal, Sakshi Tawte [595B]
 
 1. **Efficient AI: Optimizing Performance, Speed, and Sustainability**, Dhavan Antal, Dhruv Dixit, Harsh Gautam [595B]
  
 1. **Vision-Driven RL for Legacy Games: A Case Study in The World’s Hardest Game**, George Mularadelis, Dhruv Prasanna, Jason Lee [595B]
 
-1. **[2nd Place Award]** **Securing Image Classifiers Against Adversarial Attacks: A Study on CIFAR-100**, Krishna Sai Srinivas Venigalla, Pradhyumna Nagaraja Holla, Sudharshini Harisaravanan [595B]
+1. **[2nd Place Award]** **[Securing Image Classifiers Against Adversarial Attacks: A Study on CIFAR-100]( /assets/Securing-Image-Classifiers.pdf)**, Krishna Sai Srinivas Venigalla, Pradhyumna Nagaraja Holla, Sudharshini Harisaravanan [595B]
 
 1. **How Aging Impacts Bias in Healthcare**, Mohamed Arshad Peermohamed, Brandon Huang, Rafael Sanchez [595B]
  
