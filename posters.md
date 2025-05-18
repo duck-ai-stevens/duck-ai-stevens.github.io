@@ -6,7 +6,7 @@ permalink: /posters/
 
 <!-- **Accepted Posters** -->
 
-1. **From Diagnosis to Patient Experience: Evaluating Statistical Machine Learning and Deep Learning Models in Healthcare AI**, Connor Phillips, Kaitlin Ciuba, Yogarajan Sivakumar [595B]
+1. **[From Diagnosis to Patient Experience: Evaluating Statistical Machine Learning and Deep Learning Models in Healthcare AI](/assets/patient-experience.pdf)**, Connor Phillips, Kaitlin Ciuba, Yogarajan Sivakumar [595B]
 
 1. **[Adversarial Robustness of Traffic Sign Recognition: Evaluating FGSM Attack on Models](/assets/fgsm-attack.pdf)**, Yasin Hasanpoor, Jingxuan Zhu, Shotitouch Tuangcharoentip [595B]
 
@@ -18,7 +18,7 @@ permalink: /posters/
 
 1. **Efficient AI: Optimizing Performance, Speed, and Sustainability**, Dhavan Antal, Dhruv Dixit, Harsh Gautam [595B]
  
-1. **Vision-Driven RL for Legacy Games: A Case Study in The World’s Hardest Game**, George Mularadelis, Dhruv Prasanna, Jason Lee [595B]
+1. **[Vision-Driven RL for Legacy Games: A Case Study in The World’s Hardest Game](/assets/Flash-Fanatics-Poster.pdf)**, George Mularadelis, Dhruv Prasanna, Jason Lee [595B]
 
 1. **[2nd Place Award]** **[Securing Image Classifiers Against Adversarial Attacks: A Study on CIFAR-100]( /assets/Securing-Image-Classifiers.pdf)**, Krishna Sai Srinivas Venigalla, Pradhyumna Nagaraja Holla, Sudharshini Harisaravanan [595B]
 
