@@ -16,7 +16,7 @@ permalink: /posters/
 
 1. **[Investigating Bias in Heart Disease Prediction Model](/assets/Poster_UnbiasedMinds_page-0001.jpg)**, Palak Sood,Sayan Seal, Sakshi Tawte [595B]
 
-1. **Efficient AI: Optimizing Performance, Speed, and Sustainability**, Dhavan Antal, Dhruv Dixit, Harsh Gautam [595B]
+1. **[Efficient AI: Optimizing Performance, Speed, and Sustainability](/assets/efficient-ai.pdf)**, Dhavan Antal, Dhruv Dixit, Harsh Gautam [595B]
  
 1. **[Vision-Driven RL for Legacy Games: A Case Study in The World’s Hardest Game](/assets/Flash-Fanatics-Poster.pdf)**, George Mularadelis, Dhruv Prasanna, Jason Lee [595B]
 
