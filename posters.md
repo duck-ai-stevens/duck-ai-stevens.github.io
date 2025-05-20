@@ -22,7 +22,7 @@ permalink: /posters/
 
 1. **[2nd Place Award]** **[Securing Image Classifiers Against Adversarial Attacks: A Study on CIFAR-100]( /assets/Securing-Image-Classifiers.pdf)**, Krishna Sai Srinivas Venigalla, Pradhyumna Nagaraja Holla, Sudharshini Harisaravanan [595B]
 
-1. **How Aging Impacts Bias in Healthcare**, Mohamed Arshad Peermohamed, Brandon Huang, Rafael Sanchez [595B]
+1. **[How Aging Impacts Bias in Healthcare](/assets/aging.pdf)**, Mohamed Arshad Peermohamed, Brandon Huang, Rafael Sanchez [595B]
  
 1. **Symptoma – AI-Powered Symptom and Diagnosis Companion**, Charaneesh Reddy Gadikota, Hruthik Lokesh Puppala, Gyana Sai Adusumilli
  
