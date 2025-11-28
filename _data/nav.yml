@@ -19,6 +19,10 @@ items:
   name: Accepted Posters
   icon_class: fa fa-upload
 
+- url: /organizers/
+  name: Organizers
+  icon_class: fa fa-users
+
 # - url: /accepted/
 #   name: Accepted Papers
 #   icon_class: fa fa-check-square

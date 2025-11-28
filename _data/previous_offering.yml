@@ -1,7 +1,6 @@
-# offerings:
-#   - title: Fall 1997
-#     url: https://previous_course_website.url/
-  
-#   - title: Fall 1996
-#     url: https://previous_course_website.url/
+offerings:
+  - title: DuckAI 2025 Fall
+    url: https://duck-ai-stevens.github.io/2025-fall/
 
+  - title: DuckAI 2025 Spring
+    url: https://duck-ai-stevens.github.io/2025-spring/
