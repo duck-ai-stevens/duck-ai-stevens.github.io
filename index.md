@@ -70,7 +70,7 @@ The 1st iCNS/ECE Symposium on AI Research and Innovations (DuckAI 2025) is a one
 <strike>Registration link: [https://forms.gle/iPaCFxUheVo6YdGZ7]</strike>
 
 
-## Invited Speakers
+<!-- ## Invited Speakers
 <div class="home" style="font-size: 1em;">
     <ul class="responsive-table" style="margin-left: 0; border-bottom: 0.1em solid whitesmoke;">
         <li class="table-row">
@@ -144,7 +144,7 @@ The 1st iCNS/ECE Symposium on AI Research and Innovations (DuckAI 2025) is a one
         </li>
         
     </ul>
-</div>
+</div> -->
 
 
 ## Organizers:
@@ -164,48 +164,3 @@ The 1st iCNS/ECE Symposium on AI Research and Innovations (DuckAI 2025) is a one
 * James Manzella (Office Manager @ ECE, Stevens)
 * Lisa Capestro (Academic Advisor)
 * Kevin Lu (Associate Chair for Undergraduate Education)
-
-<!-- 
-**Important Dates:**
-* ~~Submission deadline: April 1, 2025~~
-* ~~Acceptance notification: April 15, 2025~~
-* Final version: May 30, 2025
-* PER Camera ready: June 30, 2025
-* Workshop date: June 13, 2025 -->
-
-## Moments at DuckAI 2025
-
-![](/assets/DSC_4224_high_quality.jpeg)
-
-![](/assets/DSC_4250_high_quality.jpeg)
-
-![](/assets/DSC_4319_high_quality.jpeg)
-
-![](/assets/DSC_4533_high_quality.jpeg)
-
-![](/assets/DSC_4433.jpeg)
-
-![](/assets/DSC_4377_high_quality.jpeg)
-
-![](/assets/DSC_4685.jpeg)
-
-![](/assets/DSC_4704.jpeg)
-
-![](assets/R0001963.JPG) 
-
-![](assets/R0001954.JPG) 
-
-![](assets/R0001960.JPG)
-
-![](assets/R0001957.JPG)
-
-![](assets/R0001955.JPG)
-
-![](assets/R0001964.JPG)
-
-![](/assets/DSC_4640_high_quality.jpeg)
-
-![](/assets/f2420fb7-00f1-4bcf-aaa0-92c39b3ab1b0.JPG)
-
-
-More photos can be found [here](https://stevens0-my.sharepoint.com/:f:/g/personal/hwang9_stevens_edu/Eo4I803Sxr9Js4qEkz0hczkBJ6ncxWLYvNK-Kq6r_VO9Cw?e=cZKYqJ)
