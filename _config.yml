@@ -1,5 +1,5 @@
 # Site settings
-course_name: "DuckAI"
+course_name: "About"
 course_semester: ""
 
 baseurl: "" # the subpath of your site, e.g. /blog/
