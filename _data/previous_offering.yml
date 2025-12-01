@@ -1,6 +1,6 @@
 offerings:
-  - title: DuckAI 2025 Fall
-    url: https://duck-ai-stevens.github.io/2025-fall/
+  # - title: DuckAI 2025 Fall
+  #   url: https://duck-ai-stevens.github.io/2025-fall/
 
   - title: DuckAI 2025 Spring
     url: https://duck-ai-stevens.github.io/2025-spring/

@@ -15,9 +15,9 @@ items:
 #   name: Assignments
 #   icon_class: fas fa-user-graduate
 
-- url: /organizers/
-  name: Organizers
-  icon_class: fa fa-users
+# - url: /organizers/
+#   name: Organizers
+#   icon_class: fa fa-users
 
 # - url: /accepted/
 #   name: Accepted Papers
